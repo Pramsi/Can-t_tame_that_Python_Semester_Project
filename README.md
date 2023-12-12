@@ -1,12 +1,12 @@
-# Semantic Analysis of Brexit Tweets
+# Sentiment Analysis of Brexit Tweets
 
 # Contributors
 ## Cant't tame that Python (Hannah Frank, Yvonne Gassner, Manuel Prammer)
 
 ## Description
-For our Semester Project for the lecture STML we want to train a model to predict the semantic of Tweets. 
+For our Semester Project for the lecture STML we want to train a model to predict the sentiment of Tweets. 
 The data we have are Tweets from accounts that openly stated their oppinion to the Brexit in their Bio.
-We want to get the overall semantic of each camp (Anti-Brexit or Pro-Brexit)
+We want to get the overall sentiment of each camp (Anti-Brexit or Pro-Brexit)
 
 
 ## About the dataset
@@ -88,7 +88,7 @@ City: City where the user lives
 
 
 
-We just need the semantic of a Tweet as label and the content of the Tweet itself to train the model.
+We just need the sentiment of a Tweet as label and the content of the Tweet itself to train the model.
 
 ## Experiment Procedure:
 Exploratory analysis
