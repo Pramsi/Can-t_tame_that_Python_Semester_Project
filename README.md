@@ -5,7 +5,7 @@
 
 ## Description
 For our Semester Project for the lecture STML we want to train a model to predict the sentiment of Tweets. 
-The data we have are Tweets from accounts that openly stated their oppinion to the Brexit in their Bio.
+The used Data consists of Tweets from accounts that openly stated their position to the Brexit in their Bio.
 We want to get the overall sentiment of each camp (Anti-Brexit or Pro-Brexit)
 
 
